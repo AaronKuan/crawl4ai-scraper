@@ -2,5 +2,4 @@ venv/
 venv_new/
 __pycache__/
 *.pyc
-output.md
 .DS_Store
