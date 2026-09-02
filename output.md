@@ -95,12 +95,12 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 [ unclecode ](https://github.com/unclecode) / **[crawl4ai](https://github.com/unclecode/crawl4ai) ** Public
   * [ Sponsor  ](https://github.com/sponsors/unclecode)
   * [ Notifications ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai) You must be signed in to change notification settings
-  * [ Fork 8.3k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
-  * [ Star  80.6k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
+  * [ Fork 8.4k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
+  * [ Star  80.9k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
 
 
   * [ Code ](https://github.com/unclecode/crawl4ai)
-  * [ Issues 33 ](https://github.com/unclecode/crawl4ai/issues)
+  * [ Issues 34 ](https://github.com/unclecode/crawl4ai/issues)
   * [ Pull requests 137 ](https://github.com/unclecode/crawl4ai/pulls)
   * [ Discussions ](https://github.com/unclecode/crawl4ai/discussions)
   * [ Actions ](https://github.com/unclecode/crawl4ai/actions)
@@ -122,7 +122,7 @@ Additional navigation options
 
 [](https://github.com/unclecode/crawl4ai)
 main
-[**185** Branches](https://github.com/unclecode/crawl4ai/branches)[**61** Tags](https://github.com/unclecode/crawl4ai/tags)
+[**186** Branches](https://github.com/unclecode/crawl4ai/branches)[**61** Tags](https://github.com/unclecode/crawl4ai/tags)
 [](https://github.com/unclecode/crawl4ai/branches)[](https://github.com/unclecode/crawl4ai/tags)
 Go to file
 Code
@@ -1314,11 +1314,11 @@ A heartfelt thanks to our individual supporters! Every contribution helps us kee
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**80.6k** stars
+**80.9k** stars
 ### Watchers
-**411** watching
+**413** watching
 ### Forks
-[**8.3k** forks](https://github.com/unclecode/crawl4ai/forks)
+[**8.4k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
 ## Releases
 ## Sponsor this project
