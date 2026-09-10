@@ -95,13 +95,13 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 [ unclecode ](https://github.com/unclecode) / **[crawl4ai](https://github.com/unclecode/crawl4ai) ** Public
   * [ Sponsor  ](https://github.com/sponsors/unclecode)
   * [ Notifications ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai) You must be signed in to change notification settings
-  * [ Fork 8.4k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
-  * [ Star  82k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
+  * [ Fork 8.5k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
+  * [ Star  82.1k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
 
 
   * [ Code ](https://github.com/unclecode/crawl4ai)
-  * [ Issues 38 ](https://github.com/unclecode/crawl4ai/issues)
-  * [ Pull requests 146 ](https://github.com/unclecode/crawl4ai/pulls)
+  * [ Issues 39 ](https://github.com/unclecode/crawl4ai/issues)
+  * [ Pull requests 149 ](https://github.com/unclecode/crawl4ai/pulls)
   * [ Discussions ](https://github.com/unclecode/crawl4ai/discussions)
   * [ Actions ](https://github.com/unclecode/crawl4ai/actions)
   * [ Projects ](https://github.com/unclecode/crawl4ai/projects)
@@ -1314,45 +1314,18 @@ A heartfelt thanks to our individual supporters! Every contribution helps us kee
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**82.0k** stars
+**82.1k** stars
 ### Watchers
 **415** watching
 ### Forks
-[**8.4k** forks](https://github.com/unclecode/crawl4ai/forks)
+[**8.5k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
-## [Releases](https://github.com/unclecode/crawl4ai/releases)21 (21)
-[ Release v0.9.3Latest Aug 31, 2026 ](https://github.com/unclecode/crawl4ai/releases/tag/v0.9.3)
-[+ 20 releases](https://github.com/unclecode/crawl4ai/releases)
+## Releases
 ## Sponsor this project
-  * [![@unclecode](https://avatars.githubusercontent.com/u/12494079?s=64&v=4)](https://github.com/unclecode)[**unclecode**](https://github.com/unclecode) UncleCode[](https://github.com/sponsors/unclecode)Sponsor @unclecode
-
-
-[Learn more about GitHub Sponsors](https://github.com/sponsors)
-## [Used by](https://github.com/unclecode/crawl4ai/network/dependents)3.3K (3.3K)
-[ ![@Harmeet10000](https://avatars.githubusercontent.com/u/98949780?s=64&v=4)![@keenableai](https://avatars.githubusercontent.com/u/236486265?s=64&v=4)![@infiniflow](https://avatars.githubusercontent.com/u/69962740?s=64&v=4)![@8dw4522b9k-cyber](https://avatars.githubusercontent.com/u/305375801?s=64&v=4)![@hsndm566](https://avatars.githubusercontent.com/u/302180874?s=64&v=4) + 3,267](https://github.com/unclecode/crawl4ai/network/dependents)
-## [Contributors](https://github.com/unclecode/crawl4ai/graphs/contributors)89 (89)
-  * [![@unclecode](https://avatars.githubusercontent.com/u/12494079?s=64&v=4)](https://github.com/unclecode)
-  * [![@ntohidi](https://avatars.githubusercontent.com/u/17140097?s=64&v=4)](https://github.com/ntohidi)
-  * [![@aravindkarnam](https://avatars.githubusercontent.com/u/15815124?s=64&v=4)](https://github.com/aravindkarnam)
-  * [![@claude](https://avatars.githubusercontent.com/u/81847?s=64&v=4)](https://github.com/claude)
-  * [![@SohamKukreti](https://avatars.githubusercontent.com/u/114597712?s=64&v=4)](https://github.com/SohamKukreti)
-  * [![@hafezparast](https://avatars.githubusercontent.com/u/14273305?s=64&v=4)](https://github.com/hafezparast)
-  * [![@murphycw](https://avatars.githubusercontent.com/u/158214348?s=64&v=4)](https://github.com/murphycw)
-  * [![@YuriNachos](https://avatars.githubusercontent.com/u/19365375?s=64&v=4)](https://github.com/YuriNachos)
-  * [![@prokopis3](https://avatars.githubusercontent.com/u/20098206?s=64&v=4)](https://github.com/prokopis3)
-  * [![@bizrockman](https://avatars.githubusercontent.com/u/17730156?s=64&v=4)](https://github.com/bizrockman)
-  * [![@rbushri](https://avatars.githubusercontent.com/u/9002117?s=64&v=4)](https://github.com/rbushri)
-  * [![@Sjoeborg](https://avatars.githubusercontent.com/u/17451310?s=64&v=4)](https://github.com/Sjoeborg)
-  * [![@Br1an67](https://avatars.githubusercontent.com/u/29810238?s=64&v=4)](https://github.com/Br1an67)
-  * [![@emmanuel-ferdman](https://avatars.githubusercontent.com/u/35470921?s=64&v=4)](https://github.com/emmanuel-ferdman)
-
-
-[+ 75 contributors](https://github.com/unclecode/crawl4ai/graphs/contributors)
+## Packages
+## Used by
+## Contributors
 ## Languages
-  * [Python98.7%](https://github.com/unclecode/crawl4ai/search?l=python)
-  * [Other1.3%](https://github.com/unclecode/crawl4ai/search?l=Other)
-
-
 ## Footer
 [ ](https://github.com) © 2026 GitHub, Inc. 
 ### Footer navigation
