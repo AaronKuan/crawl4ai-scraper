@@ -1316,7 +1316,7 @@ A heartfelt thanks to our individual supporters! Every contribution helps us kee
 ### Stars
 **82.1k** stars
 ### Watchers
-**415** watching
+**413** watching
 ### Forks
 [**8.5k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
