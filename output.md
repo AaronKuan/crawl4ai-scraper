@@ -96,12 +96,12 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
   * [ Sponsor  ](https://github.com/sponsors/unclecode)
   * [ Notifications ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai) You must be signed in to change notification settings
   * [ Fork 8.7k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
-  * [ Star  83.7k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
+  * [ Star  83.8k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
 
 
   * [ Code ](https://github.com/unclecode/crawl4ai)
   * [ Issues 43 ](https://github.com/unclecode/crawl4ai/issues)
-  * [ Pull requests 157 ](https://github.com/unclecode/crawl4ai/pulls)
+  * [ Pull requests 158 ](https://github.com/unclecode/crawl4ai/pulls)
   * [ Discussions ](https://github.com/unclecode/crawl4ai/discussions)
   * [ Actions ](https://github.com/unclecode/crawl4ai/actions)
   * [ Projects ](https://github.com/unclecode/crawl4ai/projects)
@@ -1314,7 +1314,7 @@ A heartfelt thanks to our individual supporters! Every contribution helps us kee
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**83.7k** stars
+**83.8k** stars
 ### Watchers
 **415** watching
 ### Forks
