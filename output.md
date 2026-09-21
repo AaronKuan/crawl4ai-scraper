@@ -96,7 +96,7 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
   * [ Sponsor  ](https://github.com/sponsors/unclecode)
   * [ Notifications ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai) You must be signed in to change notification settings
   * [ Fork 8.7k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
-  * [ Star  83.9k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
+  * [ Star  84k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
 
 
   * [ Code ](https://github.com/unclecode/crawl4ai)
@@ -128,14 +128,8 @@ Go to file
 Code
 Open more actions menu
 ## Latest commit
-[![unclecode](https://avatars.githubusercontent.com/u/12494079?v=4&size=40)](https://github.com/unclecode)[unclecode](https://github.com/unclecode/crawl4ai/commits?author=unclecode)
-[Merge pull request](https://github.com/unclecode/crawl4ai/commit/862f6bccb9c063f49b9d42701baa0eea17a4993f) [#2221](https://github.com/unclecode/crawl4ai/pull/2221) [from unclecode/develop](https://github.com/unclecode/crawl4ai/commit/862f6bccb9c063f49b9d42701baa0eea17a4993f)
-Open commit details
-Aug 31, 2026
-[862f6bc](https://github.com/unclecode/crawl4ai/commit/862f6bccb9c063f49b9d42701baa0eea17a4993f) · Aug 31, 2026
 ## History
 [1,651 Commits](https://github.com/unclecode/crawl4ai/commits/main/)
-Open commit details
 [](https://github.com/unclecode/crawl4ai/commits/main/)1,651 Commits
 ## Folders and files  
 | Name  | Name  | Last commit message  | Last commit date  |  
@@ -1314,7 +1308,7 @@ A heartfelt thanks to our individual supporters! Every contribution helps us kee
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**83.9k** stars
+**84.0k** stars
 ### Watchers
 **416** watching
 ### Forks
