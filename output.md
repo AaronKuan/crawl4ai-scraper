@@ -96,12 +96,12 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
   * [ Sponsor  ](https://github.com/sponsors/unclecode)
   * [ Notifications ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai) You must be signed in to change notification settings
   * [ Fork 8.7k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
-  * [ Star  84k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
+  * [ Star  84.1k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
 
 
   * [ Code ](https://github.com/unclecode/crawl4ai)
   * [ Issues 43 ](https://github.com/unclecode/crawl4ai/issues)
-  * [ Pull requests 158 ](https://github.com/unclecode/crawl4ai/pulls)
+  * [ Pull requests 155 ](https://github.com/unclecode/crawl4ai/pulls)
   * [ Discussions ](https://github.com/unclecode/crawl4ai/discussions)
   * [ Actions ](https://github.com/unclecode/crawl4ai/actions)
   * [ Projects ](https://github.com/unclecode/crawl4ai/projects)
@@ -122,7 +122,7 @@ Additional navigation options
 
 [](https://github.com/unclecode/crawl4ai)
 main
-[**195** Branches](https://github.com/unclecode/crawl4ai/branches)[**61** Tags](https://github.com/unclecode/crawl4ai/tags)
+[**196** Branches](https://github.com/unclecode/crawl4ai/branches)[**61** Tags](https://github.com/unclecode/crawl4ai/tags)
 [](https://github.com/unclecode/crawl4ai/branches)[](https://github.com/unclecode/crawl4ai/tags)
 Go to file
 Code
@@ -1314,9 +1314,9 @@ A heartfelt thanks to our individual supporters! Every contribution helps us kee
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**84.0k** stars
+**84.1k** stars
 ### Watchers
-**416** watching
+**417** watching
 ### Forks
 [**8.7k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
