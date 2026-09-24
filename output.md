@@ -96,16 +96,16 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
   * [ Sponsor  ](https://github.com/sponsors/unclecode)
   * [ Notifications ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai) You must be signed in to change notification settings
   * [ Fork 8.7k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
-  * [ Star  84.1k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
+  * [ Star  84.2k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
 
 
   * [ Code ](https://github.com/unclecode/crawl4ai)
-  * [ Issues 43 ](https://github.com/unclecode/crawl4ai/issues)
+  * [ Issues 35 ](https://github.com/unclecode/crawl4ai/issues)
   * [ Pull requests 155 ](https://github.com/unclecode/crawl4ai/pulls)
   * [ Discussions ](https://github.com/unclecode/crawl4ai/discussions)
   * [ Actions ](https://github.com/unclecode/crawl4ai/actions)
   * [ Projects ](https://github.com/unclecode/crawl4ai/projects)
-  * [ Security and quality 16 ](https://github.com/unclecode/crawl4ai/security)
+  * [ Security and quality 19 ](https://github.com/unclecode/crawl4ai/security)
   * [ Insights ](https://github.com/unclecode/crawl4ai/pulse)
 
 
@@ -122,21 +122,21 @@ Additional navigation options
 
 [](https://github.com/unclecode/crawl4ai)
 main
-[**196** Branches](https://github.com/unclecode/crawl4ai/branches)[**61** Tags](https://github.com/unclecode/crawl4ai/tags)
+[**198** Branches](https://github.com/unclecode/crawl4ai/branches)[**63** Tags](https://github.com/unclecode/crawl4ai/tags)
 [](https://github.com/unclecode/crawl4ai/branches)[](https://github.com/unclecode/crawl4ai/tags)
 Go to file
 Code
 Open more actions menu
 ## Latest commit
 [![unclecode](https://avatars.githubusercontent.com/u/12494079?v=4&size=40)](https://github.com/unclecode)[unclecode](https://github.com/unclecode/crawl4ai/commits?author=unclecode)
-[Merge pull request](https://github.com/unclecode/crawl4ai/commit/862f6bccb9c063f49b9d42701baa0eea17a4993f) [#2221](https://github.com/unclecode/crawl4ai/pull/2221) [from unclecode/develop](https://github.com/unclecode/crawl4ai/commit/862f6bccb9c063f49b9d42701baa0eea17a4993f)
-Open commit details
-Aug 31, 2026
-[862f6bc](https://github.com/unclecode/crawl4ai/commit/862f6bccb9c063f49b9d42701baa0eea17a4993f) · Aug 31, 2026
+[Merge pull request](https://github.com/unclecode/crawl4ai/commit/86e6464f6db215e0d608f6aa1da41e8505636ede) [#2281](https://github.com/unclecode/crawl4ai/pull/2281) [from unclecode/release/v0.9.4](https://github.com/unclecode/crawl4ai/commit/86e6464f6db215e0d608f6aa1da41e8505636ede)
+Open commit detailssuccess
+Sep 23, 2026
+[86e6464](https://github.com/unclecode/crawl4ai/commit/86e6464f6db215e0d608f6aa1da41e8505636ede) · Sep 23, 2026
 ## History
-[1,651 Commits](https://github.com/unclecode/crawl4ai/commits/main/)
+[1,696 Commits](https://github.com/unclecode/crawl4ai/commits/main/)
 Open commit details
-[](https://github.com/unclecode/crawl4ai/commits/main/)1,651 Commits
+[](https://github.com/unclecode/crawl4ai/commits/main/)1,696 Commits
 ## Folders and files  
 | Name  | Name  | Last commit message  | Last commit date  |  
 | --- | --- | --- | --- |  
@@ -203,8 +203,9 @@ _We’ll be onboarding in phases and working closely with early users. Limited s
 * * *
 [ ![Follow on X](https://camo.githubusercontent.com/8c6c7b3530573136a2550b2858664b1e2f38d3926e8b844a051f4ec182c99fac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466f6c6c6f772532306f6e253230582d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d78266c6f676f436f6c6f723d7768697465) ](https://x.com/crawl4ai) [ ![Follow on LinkedIn](https://camo.githubusercontent.com/1bfbe75bb6d8d9de3f18926d86ceb987aefd6e272a607eb48c1ec88d20e6db88/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466f6c6c6f772532306f6e2532304c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465) ](https://www.linkedin.com/company/crawl4ai) [ ![Join our Discord](https://camo.githubusercontent.com/8f64c117b97be1456fe243da19bd34f6aa782a09ad06ba162a33ef665cac9d27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2532306f7572253230446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465) ](https://discord.gg/jP8KfhDhyN)
 Crawl4AI turns the web into clean, LLM ready Markdown for RAG, agents, and data pipelines. Fast, controllable, battle tested by a 50k+ star community.
-[✨ Check out latest update v0.9.3](https://github.com/unclecode/crawl4ai#-recent-updates)
-✨ **New in v0.9.3** : Security release. Closes five coordinated-disclosure advisories: arbitrary file write, SSRF, and denial of service in the PDF processing path, plus two XSS issues in the Docker Playground. Also ships 33 bug fixes across the Docker server, crawler, and PDF handling. No new features, no breaking changes. [Release notes →](https://github.com/unclecode/crawl4ai/blob/main/docs/blog/release-v0.9.3.md)
+[✨ Check out latest update v0.9.4](https://github.com/unclecode/crawl4ai#-recent-updates)
+✨ **New in v0.9.4** : Security release. Closes three coordinated-disclosure advisories: two SSRF paths (robots.txt and link preview) that bypassed the Docker server's egress controls, and a config trust-boundary bypass that leaked server environment variables. Also adds `PruningContentFilterLXML`, about 10x faster pruning, now the default. No breaking changes. [Release notes →](https://github.com/unclecode/crawl4ai/blob/main/docs/blog/release-v0.9.4.md)
+✨ Recent v0.9.3: Security release. Closes five coordinated-disclosure advisories: arbitrary file write, SSRF, and denial of service in the PDF processing path, plus two XSS issues in the Docker Playground. Also ships 33 bug fixes across the Docker server, crawler, and PDF handling. No new features, no breaking changes. [Release notes →](https://github.com/unclecode/crawl4ai/blob/main/docs/blog/release-v0.9.3.md)
 ✨ Recent v0.9.2: Maintenance patch release. Fixes a `MemoryAdaptiveDispatcher` task/page leak when a streaming crawl is closed, Docker Playground "Advanced Config" and Monitor WebSocket auth, Playwright headless-shell packaging, and GPU (`ENABLE_GPU=true`) Docker builds. [Release notes →](https://github.com/unclecode/crawl4ai/blob/main/docs/blog/release-v0.9.2.md)
 ✨ Recent v0.9.0: Major secure-by-default release of the Docker API server. Auth is on by default, the server binds loopback unless given a token, and the request body is now an untrusted trust boundary. [Release notes →](https://github.com/unclecode/crawl4ai/blob/main/docs/blog/release-v0.9.0.md)
 ✨ Recent v0.8.7: Security-hardening release. Fixes critical Docker API vulnerabilities (RCE, SSRF, auth bypass, file write, XSS, hardcoded JWT secret), adds DomainMapper, and ships scraping, deep-crawl, and LLM fixes. [Release notes →](https://github.com/unclecode/crawl4ai/blob/main/docs/blog/release-v0.8.7.md)
@@ -664,6 +665,16 @@ async def test_news_crawl():
 * * *
 ## ✨ Recent Updates
 [](https://github.com/unclecode/crawl4ai#-recent-updates)
+**Version 0.9.4 Release Highlights - Security Release and Faster Pruning**
+A security release closing three coordinated-disclosure advisories. Two are SSRF paths that did not go through the Docker server's egress rule: the robots.txt fetch behind `check_robots_txt`, and the URL seeder behind `link_preview_config`, which also returned the fetched `<head>` to the caller. Both now go through the server's pinning egress proxy. The third is a bypass of the untrusted-config gate: a `{"type": "dict"}` wrapper let a forbidden `LLMConfig` through, so a non-admin client could read server environment variables.
+It also adds `PruningContentFilterLXML`, an lxml-native pruning filter that is about 10x faster and gives byte-identical output. It is now the default, and `PruningContentFilter` is deprecated. Bug fixes cover deep-crawl speed, tables with `rowspan`/`colspan`, robots.txt rules, pooled browser recycling, and the Docker Playground.
+No breaking changes.
+
+```
+pip install -U crawl4ai
+```
+
+[Full v0.9.4 Release Notes →](https://github.com/unclecode/crawl4ai/blob/main/docs/blog/release-v0.9.4.md)
 **Version 0.9.3 Release Highlights - Security Release**
 A security release closing five coordinated-disclosure advisories. Four are in the PDF processing path: an arbitrary file write through `PDFContentScrapingStrategy` image-write fields, an SSRF where the PDF download followed redirects into internal addresses, a denial of service from unbounded PDF size and page count, and an XSS from unescaped PDF text in `cleaned_html`. The fifth is a DOM-based XSS in the Docker Playground that could expose the operator's API token.
 It also carries 33 bug fixes that accumulated since 0.9.2: PDF scraping now works out of the box on the Docker server, the egress proxy chains through an upstream proxy, failed crawl results are reported instead of dropped, a Playwright driver leak on failed browser launch is fixed, and PDF crawls are no longer wrongly flagged as anti-bot blocks.
@@ -1314,9 +1325,9 @@ A heartfelt thanks to our individual supporters! Every contribution helps us kee
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**84.1k** stars
+**84.2k** stars
 ### Watchers
-**417** watching
+**418** watching
 ### Forks
 [**8.7k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
