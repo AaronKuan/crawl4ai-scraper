@@ -100,7 +100,7 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 
 
   * [ Code ](https://github.com/unclecode/crawl4ai)
-  * [ Issues 35 ](https://github.com/unclecode/crawl4ai/issues)
+  * [ Issues 34 ](https://github.com/unclecode/crawl4ai/issues)
   * [ Pull requests 155 ](https://github.com/unclecode/crawl4ai/pulls)
   * [ Discussions ](https://github.com/unclecode/crawl4ai/discussions)
   * [ Actions ](https://github.com/unclecode/crawl4ai/actions)
