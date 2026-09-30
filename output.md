@@ -96,12 +96,12 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
   * [ Sponsor  ](https://github.com/sponsors/unclecode)
   * [ Notifications ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai) You must be signed in to change notification settings
   * [ Fork 8.7k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
-  * [ Star  84.4k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
+  * [ Star  84.5k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
 
 
   * [ Code ](https://github.com/unclecode/crawl4ai)
-  * [ Issues 41 ](https://github.com/unclecode/crawl4ai/issues)
-  * [ Pull requests 168 ](https://github.com/unclecode/crawl4ai/pulls)
+  * [ Issues 40 ](https://github.com/unclecode/crawl4ai/issues)
+  * [ Pull requests 175 ](https://github.com/unclecode/crawl4ai/pulls)
   * [ Discussions ](https://github.com/unclecode/crawl4ai/discussions)
   * [ Actions ](https://github.com/unclecode/crawl4ai/actions)
   * [ Projects ](https://github.com/unclecode/crawl4ai/projects)
@@ -631,7 +631,7 @@ Open-source web crawler and scraper for LLMs and AI agents: any website into cle
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**84.4k** stars
+**84.5k** stars
 ### Watchers
 **419** watching
 ### Forks
