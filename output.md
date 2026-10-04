@@ -101,7 +101,7 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 
   * [ Code ](https://github.com/unclecode/crawl4ai)
   * [ Issues 43 ](https://github.com/unclecode/crawl4ai/issues)
-  * [ Pull requests 182 ](https://github.com/unclecode/crawl4ai/pulls)
+  * [ Pull requests 183 ](https://github.com/unclecode/crawl4ai/pulls)
   * [ Discussions ](https://github.com/unclecode/crawl4ai/discussions)
   * [ Actions ](https://github.com/unclecode/crawl4ai/actions)
   * [ Projects ](https://github.com/unclecode/crawl4ai/projects)
@@ -633,7 +633,7 @@ Open-source web crawler and scraper for LLMs and AI agents: any website into cle
 ### Stars
 **84.7k** stars
 ### Watchers
-**420** watching
+**421** watching
 ### Forks
 [**8.8k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
