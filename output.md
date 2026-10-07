@@ -92,35 +92,54 @@ Search`/`
 Appearance settings
 You signed in with another tab or window. [Reload](https://github.com/unclecode/crawl4ai) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/unclecode/crawl4ai) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/unclecode/crawl4ai) to refresh your session. Dismiss alert
 {{ message }}
-[ unclecode ](https://github.com/unclecode) / **[crawl4ai](https://github.com/unclecode/crawl4ai) ** Public
-  * [ Sponsor  ](https://github.com/sponsors/unclecode)
-  * [ Notifications ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai) You must be signed in to change notification settings
-  * [ Fork 8.8k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
-  * [ Star  84.8k ](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
+  1. [unclecode](https://github.com/unclecode)
+  2. [crawl4ai](https://github.com/unclecode/crawl4ai)
 
 
-  * [ Code ](https://github.com/unclecode/crawl4ai)
-  * [ Issues 45 ](https://github.com/unclecode/crawl4ai/issues)
-  * [ Pull requests 188 ](https://github.com/unclecode/crawl4ai/pulls)
-  * [ Discussions ](https://github.com/unclecode/crawl4ai/discussions)
-  * [ Actions ](https://github.com/unclecode/crawl4ai/actions)
-  * [ Projects ](https://github.com/unclecode/crawl4ai/projects)
-  * [ Security and quality 19 ](https://github.com/unclecode/crawl4ai/security)
-  * [ Insights ](https://github.com/unclecode/crawl4ai/pulse)
+## Repository navigation
+  * [Code](https://github.com/unclecode/crawl4ai)
+  * [Issues45 (45)](https://github.com/unclecode/crawl4ai/issues)
+  * [Pull requests189 (189)](https://github.com/unclecode/crawl4ai/pulls)
+  * [Discussions](https://github.com/unclecode/crawl4ai/discussions)
+  * [Actions](https://github.com/unclecode/crawl4ai/actions)
+  * [Projects](https://github.com/unclecode/crawl4ai/projects)
+  * [Security and quality19 (19)](https://github.com/unclecode/crawl4ai/security)
+  * [Insights](https://github.com/unclecode/crawl4ai/pulse)
 
 
-Additional navigation options
-  * [ Code  ](https://github.com/unclecode/crawl4ai)
-  * [ Issues  ](https://github.com/unclecode/crawl4ai/issues)
-  * [ Pull requests  ](https://github.com/unclecode/crawl4ai/pulls)
-  * [ Discussions  ](https://github.com/unclecode/crawl4ai/discussions)
-  * [ Actions  ](https://github.com/unclecode/crawl4ai/actions)
-  * [ Projects  ](https://github.com/unclecode/crawl4ai/projects)
-  * [ Security and quality  ](https://github.com/unclecode/crawl4ai/security)
-  * [ Insights  ](https://github.com/unclecode/crawl4ai/pulse)
-
-
+More items
 [](https://github.com/unclecode/crawl4ai)
+![unclecode](https://avatars.githubusercontent.com/u/12494079?s=60&v=4)
+**[crawl4ai](https://github.com/unclecode/crawl4ai)**
+Public
+  * Sponsor
+  * [Notifications](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to change notification settings
+  * [Fork8.8k (8.8k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
+  * [Star84.9k (84.9k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
+
+
+## About
+Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
+[crawl4ai.com](https://crawl4ai.com)
+### Topics
+[ai](https://github.com/topics/ai)[ai-agents](https://github.com/topics/ai-agents)[crawler](https://github.com/topics/crawler)[data-extraction](https://github.com/topics/data-extraction)[llm](https://github.com/topics/llm)[markdown](https://github.com/topics/markdown)[mcp](https://github.com/topics/mcp)[open-source](https://github.com/topics/open-source)[playwright](https://github.com/topics/playwright)[python](https://github.com/topics/python)[rag](https://github.com/topics/rag)[scraper](https://github.com/topics/scraper)[web-crawler](https://github.com/topics/web-crawler)[web-crawling](https://github.com/topics/web-crawling)[web-scraping](https://github.com/topics/web-scraping)
+### Resources
+[Readme](https://github.com/unclecode/crawl4ai#readme-ov-file)
+[Apache-2.0 license](https://github.com/unclecode/crawl4ai#Apache-2.0-1-ov-file)
+### Code of conduct
+[Code of conduct](https://github.com/unclecode/crawl4ai#coc-ov-file)
+### Contributing
+[Contributing](https://github.com/unclecode/crawl4ai#contributing-ov-file)
+### Security policy
+[Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
+[Activity](https://github.com/unclecode/crawl4ai/activity)
+### Stars
+**84.9k** stars
+### Watchers
+**423** watching
+### Forks
+[**8.8k** forks](https://github.com/unclecode/crawl4ai/forks)
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
 main
 [**201** Branches](https://github.com/unclecode/crawl4ai/branches)[**63** Tags](https://github.com/unclecode/crawl4ai/tags)
 [](https://github.com/unclecode/crawl4ai/branches)[](https://github.com/unclecode/crawl4ai/tags)
@@ -630,7 +649,7 @@ Open-source web crawler and scraper for LLMs and AI agents: any website into cle
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**84.8k** stars
+**84.9k** stars
 ### Watchers
 **423** watching
 ### Forks
