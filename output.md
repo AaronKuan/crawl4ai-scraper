@@ -112,10 +112,10 @@ More items
 ![unclecode](https://avatars.githubusercontent.com/u/12494079?s=60&v=4)
 **[crawl4ai](https://github.com/unclecode/crawl4ai)**
 Public
-  * [Sponsor](https://github.com/sponsors/unclecode)
+  * Sponsor
   * [Notifications](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to change notification settings
   * [Fork8.8k (8.8k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
-  * [Star85.1k (85.1k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
+  * [Star85.2k (85.2k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
 
 
 ## About
@@ -134,7 +134,7 @@ Open-source web crawler and scraper for LLMs and AI agents: any website into cle
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**85.1k** stars
+**85.2k** stars
 ### Watchers
 **423** watching
 ### Forks
@@ -649,7 +649,7 @@ Open-source web crawler and scraper for LLMs and AI agents: any website into cle
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**85.1k** stars
+**85.2k** stars
 ### Watchers
 **423** watching
 ### Forks
