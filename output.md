@@ -98,12 +98,12 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 
 ## Repository navigation
   * [Code](https://github.com/unclecode/crawl4ai)
-  * [Issues33 (33)](https://github.com/unclecode/crawl4ai/issues)
-  * [Pull requests189 (189)](https://github.com/unclecode/crawl4ai/pulls)
+  * [Issues38 (38)](https://github.com/unclecode/crawl4ai/issues)
+  * [Pull requests201 (201)](https://github.com/unclecode/crawl4ai/pulls)
   * [Discussions](https://github.com/unclecode/crawl4ai/discussions)
   * [Actions](https://github.com/unclecode/crawl4ai/actions)
   * [Projects](https://github.com/unclecode/crawl4ai/projects)
-  * [Security and quality19 (19)](https://github.com/unclecode/crawl4ai/security)
+  * [Security and quality25 (25)](https://github.com/unclecode/crawl4ai/security)
   * [Insights](https://github.com/unclecode/crawl4ai/pulse)
 
 
@@ -136,7 +136,7 @@ Open-source web crawler and scraper for LLMs and AI agents: any website into cle
 ### Stars
 **85.6k** stars
 ### Watchers
-**425** watching
+**424** watching
 ### Forks
 [**8.9k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
@@ -649,7 +649,7 @@ Open-source web crawler and scraper for LLMs and AI agents: any website into cle
 ### Stars
 **85.6k** stars
 ### Watchers
-**425** watching
+**424** watching
 ### Forks
 [**8.9k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
