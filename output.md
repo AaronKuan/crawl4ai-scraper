@@ -115,7 +115,7 @@ Public
   * Sponsor
   * [Notifications](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to change notification settings
   * [Fork8.9k (8.9k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
-  * [Star85.7k (85.7k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
+  * [Star85.8k (85.8k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
 
 
 ## About
@@ -134,7 +134,7 @@ Open-source web crawler and scraper for LLMs and AI agents: any website into cle
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**85.7k** stars
+**85.8k** stars
 ### Watchers
 **425** watching
 ### Forks
@@ -647,7 +647,7 @@ Open-source web crawler and scraper for LLMs and AI agents: any website into cle
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**85.7k** stars
+**85.8k** stars
 ### Watchers
 **425** watching
 ### Forks
