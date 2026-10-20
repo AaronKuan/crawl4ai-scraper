@@ -98,8 +98,8 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 
 ## Repository navigation
   * [Code](https://github.com/unclecode/crawl4ai)
-  * [Issues38 (38)](https://github.com/unclecode/crawl4ai/issues)
-  * [Pull requests225 (225)](https://github.com/unclecode/crawl4ai/pulls)
+  * [Issues41 (41)](https://github.com/unclecode/crawl4ai/issues)
+  * [Pull requests227 (227)](https://github.com/unclecode/crawl4ai/pulls)
   * [Discussions](https://github.com/unclecode/crawl4ai/discussions)
   * [Actions](https://github.com/unclecode/crawl4ai/actions)
   * [Projects](https://github.com/unclecode/crawl4ai/projects)
@@ -115,11 +115,11 @@ Public
   * Sponsor
   * [Notifications](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to change notification settings
   * [Fork8.9k (8.9k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
-  * [Star85.8k (85.8k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
+  * [Star85.9k (85.9k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
 
 
 ## About
-Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
+Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord <https://discord.gg/VuxzM8mtf>
 [crawl4ai.com](https://crawl4ai.com)
 ### Topics
 [ai](https://github.com/topics/ai)[ai-agents](https://github.com/topics/ai-agents)[crawler](https://github.com/topics/crawler)[data-extraction](https://github.com/topics/data-extraction)[llm](https://github.com/topics/llm)[markdown](https://github.com/topics/markdown)[mcp](https://github.com/topics/mcp)[open-source](https://github.com/topics/open-source)[playwright](https://github.com/topics/playwright)[python](https://github.com/topics/python)[rag](https://github.com/topics/rag)[scraper](https://github.com/topics/scraper)[web-crawler](https://github.com/topics/web-crawler)[web-crawling](https://github.com/topics/web-crawling)[web-scraping](https://github.com/topics/web-scraping)
@@ -134,7 +134,7 @@ Open-source web crawler and scraper for LLMs and AI agents: any website into cle
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**85.8k** stars
+**85.9k** stars
 ### Watchers
 **425** watching
 ### Forks
@@ -148,14 +148,14 @@ Code
 Open more actions menu
 ## Latest commit
 [![unclecode](https://avatars.githubusercontent.com/u/12494079?v=4&size=40)](https://github.com/unclecode)[unclecode](https://github.com/unclecode/crawl4ai/commits?author=unclecode)
-[Cloud: the free offer is 1,000 credits every month, plans from $10 a …](https://github.com/unclecode/crawl4ai/commit/94b67888ca8b335ff2121423a50e06dd27661922)
+[Merge develop into main: Cloud offer text, docs Cloud boxes, setup fi…](https://github.com/unclecode/crawl4ai/commit/30165f1ee1fb61f6cce1477feed2acc5e2181e25)
 Open commit details
-Oct 15, 2026
-[94b6788](https://github.com/unclecode/crawl4ai/commit/94b67888ca8b335ff2121423a50e06dd27661922) · Oct 15, 2026
+Oct 20, 2026
+[30165f1](https://github.com/unclecode/crawl4ai/commit/30165f1ee1fb61f6cce1477feed2acc5e2181e25) · Oct 20, 2026
 ## History
-[1,778 Commits](https://github.com/unclecode/crawl4ai/commits/main/)
+[1,783 Commits](https://github.com/unclecode/crawl4ai/commits/main/)
 Open commit details
-[](https://github.com/unclecode/crawl4ai/commits/main/)1,778 Commits
+[](https://github.com/unclecode/crawl4ai/commits/main/)1,783 Commits
 ## Folders and files  
 | Name  | Name  | Last commit message  | Last commit date  |  
 | --- | --- | --- | --- |  
@@ -209,8 +209,8 @@ More items
 [![unclecode%2Fcrawl4ai | Trendshift](https://camo.githubusercontent.com/12cf49ee9cc68bbed4b35565e46721f76db8481c3b762eaea7bc34b400b2118f/68747470733a2f2f7472656e6473686966742e696f2f6170692f62616467652f7265706f7369746f726965732f3131373136)](https://trendshift.io/repositories/11716)
 [![GitHub Stars](https://camo.githubusercontent.com/5645daa00297fb49269ce163f2324a36b972a0090fe6bdde1ac459a7c557ef80/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f756e636c65636f64652f637261776c3461693f7374796c653d736f6369616c)](https://github.com/unclecode/crawl4ai/stargazers) [![PyPI version](https://camo.githubusercontent.com/33482ca0100c60abf64930364bc0467d96bea4e66a7294c7c4e079773abdc822/68747470733a2f2f62616467652e667572792e696f2f70792f637261776c3461692e737667)](https://badge.fury.io/py/crawl4ai) [![Downloads](https://camo.githubusercontent.com/2b53a22dbcab64a3786226c3963af35be1bccc75ffbd8a451f42c06a62f61ead/68747470733a2f2f7374617469632e706570792e746563682f62616467652f637261776c3461692f6d6f6e7468)](https://pepy.tech/project/crawl4ai) [![Discord](https://camo.githubusercontent.com/2022be34edbb9186087a010988b6e7bf17334f4a5fb34960356032f80efb320b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d6a6f696e25323075732d3538363546323f6c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.gg/jP8KfhDhyN) [![Crawl4AI Cloud](https://camo.githubusercontent.com/e2176ca2825846f76135ceea70eec6f4d0f7acdfc70b97a98b811127172c864d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f437261776c3441495f436c6f75642d7472795f69745f667265652d6635613330303f7374796c653d666c6174266c6162656c436f6c6f723d306430643130)](https://crawl4ai.com/?ref=readme-badge)
 **Latest:[v0.9.5](https://github.com/unclecode/crawl4ai/releases/tag/v0.9.5) (14 Oct 2026)** · [all releases →](https://github.com/unclecode/crawl4ai/releases)
-[ ![Crawl4AI Cloud is live. Soft launch: free credits every month, no card. Get your key.](https://raw.githubusercontent.com/unclecode/crawl4ai/main/docs/assets/cloud-launch-banner-light.svg) ](https://crawl4ai.com/?ref=readme-banner)
-Crawl4AI turns any website into clean, LLM-ready Markdown for RAG, AI agents and data pipelines. Run the open-source web crawler and scraper yourself, free forever, or use it hosted with one key: `/scrape` a page to Markdown, `/extract` it to JSON, `/search` the web, `/serp` for Google's results page as data, `/answer` a question with sources; MCP for your agent. Free: 10 a minute, 2 at a time, 1,000 credits every month. Plans: 120 a minute, 10 at a time, from $10 a month.
+[ ![Crawl4AI Cloud is live. 1,000 free credits every month, no card. Get your key.](https://raw.githubusercontent.com/unclecode/crawl4ai/main/docs/assets/cloud-launch-banner-light.svg) ](https://crawl4ai.com/?ref=readme-banner)
+Crawl4AI turns any website into clean, LLM-ready Markdown for RAG, AI agents and data pipelines. Run the open-source web crawler and scraper yourself, free forever, or use it hosted with one key: `/scrape` a page to Markdown, `/extract` it to JSON, `/search` the web, `/serp` for Google's results page as data, `/answer` a question with sources; MCP for your agent. Free: 1,000 credits every month, 10 a minute, 2 at a time. Paid: 120 a minute, 10 at a time, from $10 a month.
 ## Two ways to use Crawl4AI
 [](https://github.com/unclecode/crawl4ai#two-ways-to-use-crawl4ai)
 ### 🐍 Run it yourself: open source, forever
@@ -238,7 +238,7 @@ Docker server, CLI and every option: [Installation](https://github.com/unclecode
 ### ☁️ Or use the cloud: no browsers, no proxies
 [](https://github.com/unclecode/crawl4ai#%EF%B8%8F-or-use-the-cloud-no-browsers-no-proxies)
   1. [![Get a key in 10 seconds](https://camo.githubusercontent.com/b79dabb4d5034c3a922159dc09ae039304656f7d73262b615689966a20cd5f19/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4765745f615f6b65795f696e5f31305f7365636f6e64732d32305f667265655f637265646974732532435f6e6f5f7369676e75702d6635613330303f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d306430643130)](https://crawl4ai.com/?ref=readme)  
-Verify your email and 1,000 free credits are yours every month. No card. Soft launch: prices can change, what you buy stays yours.
+Verify your email and 1,000 free credits are yours every month. No card.
   2. Get any page as Markdown:
 
 ```
@@ -265,7 +265,7 @@ claude mcp add --transport http crawl4ai https://api.crawl4ai.com/mcp \
 | **Runs the browsers**  | you, in your Python process  | you, in Docker on your machine  | we do  |  
 | **JS-heavy pages and bot walls**  | your settings, your proxies  | your settings, your proxies  | handled for you, automatically  |  
 | **Web search**  | –  | –  |  `/search`, `/serp` and `/answer`  |  
-| **Price**  | free, forever  | free (your hosting)  | 1,000 free credits every month; plans from $10 a month  |  
+| **Price**  | free, forever  | free (your hosting)  | 1,000 free credits a month; plans from $10  |  
 🤓 **My Personal Story**
 I grew up on an Amstrad, thanks to my dad, and never stopped building. In grad school I specialized in NLP and built crawlers for research. That’s where I learned how much extraction matters.
 In 2023, I needed web-to-Markdown. The “open source” option wanted an account, API token, and $16, and still under-delivered. I went turbo anger mode, built Crawl4AI in days, and it went viral. Now it’s the most-starred crawler on GitHub.
@@ -632,7 +632,7 @@ Happy crawling! 🕸️🚀
 [](https://github.com/unclecode/crawl4ai#star-history)
 [ ![Star History Chart](https://camo.githubusercontent.com/a811624bedb0802297c05ee10bc42d18d2a2e5016478a06597de5dbea1305692/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f63686172743f7265706f733d756e636c65636f64652f637261776c34616926747970653d64617465266c6567656e643d746f702d6c656674267365616c65645f746f6b656e3d4b75616a724137536348385654344b616743376e6d317862617a5456614e733672646f6b3441743264563674446c393159525f64786d48686d7366666a68466957644c596c7a644143785a2d63574c777038745a4843597853444d6a49546633566e75346d506e733759644c657479514250484d5132665f4b616b5864627662565036506f66493832474e71474356455874506e5a57484338574d36437a5a65367336634a62365f67615f6b6e2d6a682d4265486479755252645652) ](https://www.star-history.com/?type=date&repos=unclecode%2Fcrawl4ai)
 ## About
-Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
+Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord <https://discord.gg/VuxzM8mtf>
 [crawl4ai.com](https://crawl4ai.com)
 ### Topics
 [ai](https://github.com/topics/ai)[ai-agents](https://github.com/topics/ai-agents)[crawler](https://github.com/topics/crawler)[data-extraction](https://github.com/topics/data-extraction)[llm](https://github.com/topics/llm)[markdown](https://github.com/topics/markdown)[mcp](https://github.com/topics/mcp)[open-source](https://github.com/topics/open-source)[playwright](https://github.com/topics/playwright)[python](https://github.com/topics/python)[rag](https://github.com/topics/rag)[scraper](https://github.com/topics/scraper)[web-crawler](https://github.com/topics/web-crawler)[web-crawling](https://github.com/topics/web-crawling)[web-scraping](https://github.com/topics/web-scraping)
@@ -647,7 +647,7 @@ Open-source web crawler and scraper for LLMs and AI agents: any website into cle
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**85.8k** stars
+**85.9k** stars
 ### Watchers
 **425** watching
 ### Forks
