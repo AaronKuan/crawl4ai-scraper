@@ -99,7 +99,7 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 ## Repository navigation
   * [Code](https://github.com/unclecode/crawl4ai)
   * [Issues41 (41)](https://github.com/unclecode/crawl4ai/issues)
-  * [Pull requests227 (227)](https://github.com/unclecode/crawl4ai/pulls)
+  * [Pull requests226 (226)](https://github.com/unclecode/crawl4ai/pulls)
   * [Discussions](https://github.com/unclecode/crawl4ai/discussions)
   * [Actions](https://github.com/unclecode/crawl4ai/actions)
   * [Projects](https://github.com/unclecode/crawl4ai/projects)
