@@ -42,7 +42,7 @@ Appearance settings
       * [Financial services](https://github.com/solutions/industry/financial-services)
       * [Manufacturing](https://github.com/solutions/industry/manufacturing)
       * [Government](https://github.com/solutions/industry/government)
-      * [View all industries](https://github.com/solutions/industry)
+      * [See all industries](https://github.com/solutions/industry)
 [View all solutions](https://github.com/solutions)
   * Resources
     * EXPLORE BY TOPIC
@@ -99,7 +99,7 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 ## Repository navigation
   * [Code](https://github.com/unclecode/crawl4ai)
   * [Issues44 (44)](https://github.com/unclecode/crawl4ai/issues)
-  * [Pull requests233 (233)](https://github.com/unclecode/crawl4ai/pulls)
+  * [Pull requests234 (234)](https://github.com/unclecode/crawl4ai/pulls)
   * [Discussions](https://github.com/unclecode/crawl4ai/discussions)
   * [Actions](https://github.com/unclecode/crawl4ai/actions)
   * [Projects](https://github.com/unclecode/crawl4ai/projects)
@@ -112,9 +112,9 @@ More items
 ![unclecode](https://avatars.githubusercontent.com/u/12494079?s=60&v=4)
 **[crawl4ai](https://github.com/unclecode/crawl4ai)**
 Public
-  * Sponsor
+  * [Sponsor](https://github.com/sponsors/unclecode)
   * [Notifications](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to change notification settings
-  * [Fork8.9k (8.9k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
+  * [Fork9k (9k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
   * [Star86.1k (86.1k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
 
 
@@ -136,9 +136,9 @@ Open-source web crawler and scraper for LLMs and AI agents: any website into cle
 ### Stars
 **86.1k** stars
 ### Watchers
-**425** watching
+**424** watching
 ### Forks
-[**8.9k** forks](https://github.com/unclecode/crawl4ai/forks)
+[**9.0k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
 main
 [**210** Branches](https://github.com/unclecode/crawl4ai/branches)[**65** Tags](https://github.com/unclecode/crawl4ai/tags)
@@ -649,16 +649,43 @@ Open-source web crawler and scraper for LLMs and AI agents: any website into cle
 ### Stars
 **86.1k** stars
 ### Watchers
-**425** watching
+**424** watching
 ### Forks
-[**8.9k** forks](https://github.com/unclecode/crawl4ai/forks)
+[**9.0k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
-## Releases
+## [Releases](https://github.com/unclecode/crawl4ai/releases)23 (23)
+[ Release v0.9.5Latest Oct 14, 2026 ](https://github.com/unclecode/crawl4ai/releases/tag/v0.9.5)
+[+ 22 releases](https://github.com/unclecode/crawl4ai/releases)
 ## Sponsor this project
-## Packages
-## Used by
-## Contributors
+  * [![@unclecode](https://avatars.githubusercontent.com/u/12494079?s=64&v=4)](https://github.com/unclecode)[**unclecode**](https://github.com/unclecode) UncleCode[](https://github.com/sponsors/unclecode)Sponsor @unclecode
+
+
+[Learn more about GitHub Sponsors](https://github.com/sponsors)
+## [Used by](https://github.com/unclecode/crawl4ai/network/dependents)3.3K (3.3K)
+[ ![@RoofingnearmeSTL](https://avatars.githubusercontent.com/u/333523465?s=64&v=4)![@1440i-Co](https://avatars.githubusercontent.com/u/224616819?s=64&v=4)![@1440i-Co](https://avatars.githubusercontent.com/u/224616819?s=64&v=4)![@FransGer](https://avatars.githubusercontent.com/u/48481773?s=64&v=4)![@dojime](https://avatars.githubusercontent.com/u/59381471?s=64&v=4) + 3,328](https://github.com/unclecode/crawl4ai/network/dependents)
+## [Contributors](https://github.com/unclecode/crawl4ai/graphs/contributors)99 (99)
+  * [![@unclecode](https://avatars.githubusercontent.com/u/12494079?s=64&v=4)](https://github.com/unclecode)
+  * [![@ntohidi](https://avatars.githubusercontent.com/u/17140097?s=64&v=4)](https://github.com/ntohidi)
+  * [![@aravindkarnam](https://avatars.githubusercontent.com/u/15815124?s=64&v=4)](https://github.com/aravindkarnam)
+  * [![@claude](https://avatars.githubusercontent.com/u/81847?s=64&v=4)](https://github.com/claude)
+  * [![@SohamKukreti](https://avatars.githubusercontent.com/u/114597712?s=64&v=4)](https://github.com/SohamKukreti)
+  * [![@hafezparast](https://avatars.githubusercontent.com/u/14273305?s=64&v=4)](https://github.com/hafezparast)
+  * [![@murphycw](https://avatars.githubusercontent.com/u/158214348?s=64&v=4)](https://github.com/murphycw)
+  * [![@talelboussetta](https://avatars.githubusercontent.com/u/187740793?s=64&v=4)](https://github.com/talelboussetta)
+  * [![@YuriNachos](https://avatars.githubusercontent.com/u/19365375?s=64&v=4)](https://github.com/YuriNachos)
+  * [![@prokopis3](https://avatars.githubusercontent.com/u/20098206?s=64&v=4)](https://github.com/prokopis3)
+  * [![@bizrockman](https://avatars.githubusercontent.com/u/17730156?s=64&v=4)](https://github.com/bizrockman)
+  * [![@Nalhin](https://avatars.githubusercontent.com/u/45081785?s=64&v=4)](https://github.com/Nalhin)
+  * [![@rbushri](https://avatars.githubusercontent.com/u/9002117?s=64&v=4)](https://github.com/rbushri)
+  * [![@Sjoeborg](https://avatars.githubusercontent.com/u/17451310?s=64&v=4)](https://github.com/Sjoeborg)
+
+
+[+ 85 contributors](https://github.com/unclecode/crawl4ai/graphs/contributors)
 ## Languages
+  * [Python98.8%](https://github.com/unclecode/crawl4ai/search?l=python)
+  * [Other1.2%](https://github.com/unclecode/crawl4ai/search?l=Other)
+
+
 ## Footer
 [ ](https://github.com) © 2026 GitHub, Inc. 
 ### Footer navigation
