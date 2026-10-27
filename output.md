@@ -99,7 +99,7 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 ## Repository navigation
   * [Code](https://github.com/unclecode/crawl4ai)
   * [Issues46 (46)](https://github.com/unclecode/crawl4ai/issues)
-  * [Pull requests236 (236)](https://github.com/unclecode/crawl4ai/pulls)
+  * [Pull requests231 (231)](https://github.com/unclecode/crawl4ai/pulls)
   * [Discussions](https://github.com/unclecode/crawl4ai/discussions)
   * [Actions](https://github.com/unclecode/crawl4ai/actions)
   * [Projects](https://github.com/unclecode/crawl4ai/projects)
@@ -141,21 +141,21 @@ Open-source web crawler and scraper for LLMs and AI agents: any website into cle
 [**9.0k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
 main
-[**210** Branches](https://github.com/unclecode/crawl4ai/branches)[**65** Tags](https://github.com/unclecode/crawl4ai/tags)
+[**212** Branches](https://github.com/unclecode/crawl4ai/branches)[**65** Tags](https://github.com/unclecode/crawl4ai/tags)
 [](https://github.com/unclecode/crawl4ai/branches)[](https://github.com/unclecode/crawl4ai/tags)
 Go to file
 Code
 Open more actions menu
 ## Latest commit
 [![unclecode](https://avatars.githubusercontent.com/u/12494079?v=4&size=40)](https://github.com/unclecode)[unclecode](https://github.com/unclecode/crawl4ai/commits?author=unclecode)
-[Merge develop into main: Cloud offer text, docs Cloud boxes, setup fi…](https://github.com/unclecode/crawl4ai/commit/30165f1ee1fb61f6cce1477feed2acc5e2181e25)
+[docs: fix the remaining broken links in release notes and table docs](https://github.com/unclecode/crawl4ai/commit/888299fb5f0b82181897dc0e61bfb4b036f0aea5)
 Open commit details
-Oct 20, 2026
-[30165f1](https://github.com/unclecode/crawl4ai/commit/30165f1ee1fb61f6cce1477feed2acc5e2181e25) · Oct 20, 2026
+Oct 26, 2026
+[888299f](https://github.com/unclecode/crawl4ai/commit/888299fb5f0b82181897dc0e61bfb4b036f0aea5) · Oct 26, 2026
 ## History
-[1,783 Commits](https://github.com/unclecode/crawl4ai/commits/main/)
+[1,785 Commits](https://github.com/unclecode/crawl4ai/commits/main/)
 Open commit details
-[](https://github.com/unclecode/crawl4ai/commits/main/)1,783 Commits
+[](https://github.com/unclecode/crawl4ai/commits/main/)1,785 Commits
 ## Folders and files  
 | Name  | Name  | Last commit message  | Last commit date  |  
 | --- | --- | --- | --- |  
