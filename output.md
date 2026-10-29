@@ -2,87 +2,73 @@
 ## Navigation Menu
 [](https://github.com/)
 [Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai)
-Appearance settings
-  * Platform
-    * AI CODE CREATION
-      * [GitHub CopilotWrite better code with AI](https://github.com/features/copilot)
-      * [GitHub Copilot appDirect agents from issue to merge](https://github.com/features/ai/github-app)
-      * [MCP RegistryIntegrate external tools](https://github.com/mcp)
-    * DEVELOPER WORKFLOWS
-      * [ActionsAutomate any workflow](https://github.com/features/actions)
-      * [CodespacesInstant dev environments](https://github.com/features/codespaces)
-      * [IssuesPlan and track work](https://github.com/features/issues)
-      * [Code ReviewManage code changes](https://github.com/features/code-review)
-      * [Code QualityEnforce quality at merge](https://github.com/features/code-quality)
-    * APPLICATION SECURITY
-      * [GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)
-      * [Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)
-      * [Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)
-    * EXPLORE
-      * [Why GitHub](https://github.com/why-github)
-      * [Documentation](https://docs.github.com)
-      * [Blog](https://github.blog)
-      * [Changelog](https://github.blog/changelog)
-      * [Marketplace](https://github.com/marketplace)
-[View all features](https://github.com/features)
-  * Solutions
-    * BY COMPANY SIZE
+  * Products
+    * Platform
+      * [![](https://github.githubassets.com/assets/platform-4ce65ae0bf273ce2.png)![](https://github.githubassets.com/assets/platform-dark-ac89fbf373737ed3.png)GitHubRepository hosting, code review, and collaboration](https://github.com/platform)
+      * [![](https://github.githubassets.com/assets/copilot-e2b89335a66dba00.png)![](https://github.githubassets.com/assets/copilot-dark-2b28403b6080e898.png)CopilotAI coding agent for tasks, projects and automated work](https://github.com/features/copilot)
+    * Build & Ship
+      * [ActionsCI/CD and automation](https://github.com/features/actions)
+      * [Code QualityQuality analysis, fixes, and enforcement](https://github.com/features/code-quality)
+      * [CodespacesCloud development environments](https://github.com/features/codespaces)
+    * Secure
+      * [Code SecurityVulnerability detection and remediation](https://github.com/security/advanced-security/code-security)
+      * [Secret ProtectionSecret scanning and leak prevention](https://github.com/security/advanced-security/secret-protection)
+[All Features](https://github.com/features)
+  * Developers
+    * Learn
+      * [Documentation](https://docs.github.com/en)
+      * [Training](https://learn.github.com/skills)
+      * [Certifications](https://learn.github.com/credentials)
+    * Build
+      * [Build with Copilot](https://github.com/features/ai)
+      * [Customize Copilot](https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/customize-copilot-overview)
+      * [Integrations](https://github.com/marketplace)
+    * Explore
+      * [Trending repos](https://github.com/trending)
+      * [GitHub Sponsors](https://github.com/open-source/sponsors)
+      * [Events](https://github.com/resources/events)
+    * Changelog
+      * [![](https://github.githubassets.com/assets/changelog-fd687bff072883b0.png)![](https://github.githubassets.com/assets/changelog-dark-b1c25ae971bd641b.png)ChangelogYour source for the latest features, improvements, and fixes across GitHub products, all in one place.](https://github.blog/changelog/)
+  * Businesses
+    * By Stage
       * [Enterprises](https://github.com/enterprise)
-      * [Small and medium teams](https://github.com/team)
+      * [Team](https://github.com/team)
       * [Startups](https://github.com/enterprise/startups)
       * [Nonprofits](https://github.com/solutions/industry/nonprofits)
-    * BY USE CASE
-      * [App Modernization](https://github.com/solutions/use-case/app-modernization)
-      * [DevSecOps](https://github.com/solutions/use-case/devsecops)
-      * [DevOps](https://github.com/solutions/use-case/devops)
-      * [CI/CD](https://github.com/solutions/use-case/ci-cd)
-      * [View all use cases](https://github.com/solutions/use-case)
-    * BY INDUSTRY
+    * By Industry
       * [Healthcare](https://github.com/solutions/industry/healthcare)
       * [Financial services](https://github.com/solutions/industry/financial-services)
       * [Manufacturing](https://github.com/solutions/industry/manufacturing)
       * [Government](https://github.com/solutions/industry/government)
       * [See all industries](https://github.com/solutions/industry)
-[View all solutions](https://github.com/solutions)
-  * Resources
-    * EXPLORE BY TOPIC
-      * [AI](https://github.com/resources/articles?topic=ai)
-      * [Software Development](https://github.com/resources/articles?topic=software-development)
-      * [DevOps](https://github.com/resources/articles?topic=devops)
-      * [Security](https://github.com/resources/articles?topic=security)
-      * [View all topics](https://github.com/resources/articles)
-    * EXPLORE BY TYPE
-      * [Customer stories](https://github.com/customer-stories)
-      * [Events & webinars](https://github.com/resources/events)
-      * [Ebooks & reports](https://github.com/resources/whitepapers)
+    * Evaluate GitHub
+      * [Why GitHub](https://github.com/why-github)
+      * [Customer Stories](https://github.com/customer-stories)
       * [Business insights](https://github.com/solutions/executive-insights)
-      * [GitHub Skills](https://skills.github.com)
-    * SUPPORT & SERVICES
-      * [Documentation](https://docs.github.com)
-      * [Customer support](https://support.github.com)
-      * [Community forum](https://github.com/orgs/community/discussions)
-      * [Trust center](https://github.com/trust-center)
-      * [Partners](https://github.com/partners)
-[View all resources](https://github.com/resources)
-  * Open Source
-    * COMMUNITY
-      * [GitHub SponsorsFund open source developers](https://github.com/open-source/sponsors)
-    * PROGRAMS
-      * [Security Lab](https://securitylab.github.com)
-      * [Maintainer Community](https://maintainers.github.com)
-      * [GitHub Stars](https://stars.github.com)
-      * [Archive Program](https://archiveprogram.github.com)
-    * REPOSITORIES
-      * [Topics](https://github.com/topics)
-      * [Trending](https://github.com/trending)
-      * [Collections](https://github.com/collections)
-  * Enterprise
-    * ENTERPRISE SOLUTIONS
-      * [Enterprise platformAI-powered developer platform](https://github.com/enterprise)
-    * AVAILABLE ADD-ONS
-      * [GitHub Advanced SecurityEnterprise-grade security features](https://github.com/security/advanced-security)
-      * [Copilot for BusinessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)
+      * [Trust Center](https://github.com/trust-center)
+    * Add-ons
+      * [GitHub Advanced SecurityEnterprise-grade code security](https://github.com/security/advanced-security)
+      * [Copilot for businessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)
       * [Premium SupportEnterprise-grade 24/7 support](https://github.com/enterprise/premium-support)
+  * Resources
+    * Learn & Connect
+      * [Documentation](https://docs.github.com/en)
+      * [Resource center](https://github.com/resources)
+      * [Blog](https://github.blog/)
+      * [Events & webinars](https://github.com/resources/events)
+      * [Community Forum](https://github.com/orgs/community/discussions)
+      * [Customer Stories](https://github.com/customer-stories)
+      * [Integrations](https://github.com/marketplace)
+    * Support
+      * [Customer support](https://help.github.com/)
+      * [Training](https://learn.github.com/skills)
+      * [GitHub Status](https://www.githubstatus.com/)
+    * Company
+      * [About](https://github.com/about)
+      * [Partners](https://github.com/partners)
+      * [Changelog](https://github.blog/changelog/)
+    * GitHub Universe
+      * [![](https://github.githubassets.com/assets/universe-a98cd54821b27569.png)![](https://github.githubassets.com/assets/universe-a98cd54821b27569.png)GitHub UniverseThe event for developers, by developers — talks, workshops, and what’s next for GitHub.](https://githubuniverse.com/)
   * [Pricing](https://github.com/pricing)
 
 
@@ -98,8 +84,8 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 
 ## Repository navigation
   * [Code](https://github.com/unclecode/crawl4ai)
-  * [Issues47 (47)](https://github.com/unclecode/crawl4ai/issues)
-  * [Pull requests235 (235)](https://github.com/unclecode/crawl4ai/pulls)
+  * [Issues48 (48)](https://github.com/unclecode/crawl4ai/issues)
+  * [Pull requests241 (241)](https://github.com/unclecode/crawl4ai/pulls)
   * [Discussions](https://github.com/unclecode/crawl4ai/discussions)
   * [Actions](https://github.com/unclecode/crawl4ai/actions)
   * [Projects](https://github.com/unclecode/crawl4ai/projects)
@@ -112,10 +98,10 @@ More items
 ![unclecode](https://avatars.githubusercontent.com/u/12494079?s=60&v=4)
 **[crawl4ai](https://github.com/unclecode/crawl4ai)**
 Public
-  * [Sponsor](https://github.com/sponsors/unclecode)
+  * Sponsor
   * [Notifications](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to change notification settings
   * [Fork9k (9k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
-  * [Star86.4k (86.4k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
+  * [Star86.5k (86.5k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
 
 
 ## About
@@ -134,14 +120,14 @@ Open-source web crawler and scraper for LLMs and AI agents: any website into cle
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**86.4k** stars
+**86.5k** stars
 ### Watchers
 **419** watching
 ### Forks
 [**9.0k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
 main
-[**212** Branches](https://github.com/unclecode/crawl4ai/branches)[**65** Tags](https://github.com/unclecode/crawl4ai/tags)
+[**213** Branches](https://github.com/unclecode/crawl4ai/branches)[**65** Tags](https://github.com/unclecode/crawl4ai/tags)
 [](https://github.com/unclecode/crawl4ai/branches)[](https://github.com/unclecode/crawl4ai/tags)
 Go to file
 Code
@@ -647,45 +633,18 @@ Open-source web crawler and scraper for LLMs and AI agents: any website into cle
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**86.4k** stars
+**86.5k** stars
 ### Watchers
 **419** watching
 ### Forks
 [**9.0k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
-## [Releases](https://github.com/unclecode/crawl4ai/releases)23 (23)
-[ Release v0.9.5Latest Oct 14, 2026 ](https://github.com/unclecode/crawl4ai/releases/tag/v0.9.5)
-[+ 22 releases](https://github.com/unclecode/crawl4ai/releases)
+## Releases
 ## Sponsor this project
-  * [![@unclecode](https://avatars.githubusercontent.com/u/12494079?s=64&v=4)](https://github.com/unclecode)[**unclecode**](https://github.com/unclecode) UncleCode[](https://github.com/sponsors/unclecode)Sponsor @unclecode
-
-
-[Learn more about GitHub Sponsors](https://github.com/sponsors)
-## [Used by](https://github.com/unclecode/crawl4ai/network/dependents)3.3K (3.3K)
-[ ![@lama-assaf](https://avatars.githubusercontent.com/u/3055302?s=64&v=4)![@How1337ItIs](https://avatars.githubusercontent.com/u/103902133?s=64&v=4)![@New1Direction](https://avatars.githubusercontent.com/u/285551516?s=64&v=4)![@developer3000S](https://avatars.githubusercontent.com/u/626752?s=64&v=4)![@EnragedAntelope](https://avatars.githubusercontent.com/u/176548309?s=64&v=4) + 3,340](https://github.com/unclecode/crawl4ai/network/dependents)
-## [Contributors](https://github.com/unclecode/crawl4ai/graphs/contributors)99 (99)
-  * [![@unclecode](https://avatars.githubusercontent.com/u/12494079?s=64&v=4)](https://github.com/unclecode)
-  * [![@ntohidi](https://avatars.githubusercontent.com/u/17140097?s=64&v=4)](https://github.com/ntohidi)
-  * [![@aravindkarnam](https://avatars.githubusercontent.com/u/15815124?s=64&v=4)](https://github.com/aravindkarnam)
-  * [![@claude](https://avatars.githubusercontent.com/u/81847?s=64&v=4)](https://github.com/claude)
-  * [![@SohamKukreti](https://avatars.githubusercontent.com/u/114597712?s=64&v=4)](https://github.com/SohamKukreti)
-  * [![@hafezparast](https://avatars.githubusercontent.com/u/14273305?s=64&v=4)](https://github.com/hafezparast)
-  * [![@murphycw](https://avatars.githubusercontent.com/u/158214348?s=64&v=4)](https://github.com/murphycw)
-  * [![@talelboussetta](https://avatars.githubusercontent.com/u/187740793?s=64&v=4)](https://github.com/talelboussetta)
-  * [![@YuriNachos](https://avatars.githubusercontent.com/u/19365375?s=64&v=4)](https://github.com/YuriNachos)
-  * [![@prokopis3](https://avatars.githubusercontent.com/u/20098206?s=64&v=4)](https://github.com/prokopis3)
-  * [![@bizrockman](https://avatars.githubusercontent.com/u/17730156?s=64&v=4)](https://github.com/bizrockman)
-  * [![@Nalhin](https://avatars.githubusercontent.com/u/45081785?s=64&v=4)](https://github.com/Nalhin)
-  * [![@rbushri](https://avatars.githubusercontent.com/u/9002117?s=64&v=4)](https://github.com/rbushri)
-  * [![@Sjoeborg](https://avatars.githubusercontent.com/u/17451310?s=64&v=4)](https://github.com/Sjoeborg)
-
-
-[+ 85 contributors](https://github.com/unclecode/crawl4ai/graphs/contributors)
+## Packages
+## Used by
+## Contributors
 ## Languages
-  * [Python98.8%](https://github.com/unclecode/crawl4ai/search?l=python)
-  * [Other1.2%](https://github.com/unclecode/crawl4ai/search?l=Other)
-
-
 ## Footer
 [ ](https://github.com) © 2026 GitHub, Inc. 
 ### Footer navigation
