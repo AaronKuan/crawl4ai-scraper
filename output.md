@@ -5,7 +5,7 @@
   * Products
     * Platform
       * [![](https://github.githubassets.com/assets/platform-4ce65ae0bf273ce2.png)![](https://github.githubassets.com/assets/platform-dark-ac89fbf373737ed3.png)GitHubRepository hosting, code review, and collaboration](https://github.com/platform)
-      * [![](https://github.githubassets.com/assets/copilot-e2b89335a66dba00.png)![](https://github.githubassets.com/assets/copilot-dark-2b28403b6080e898.png)CopilotAI coding agent for tasks, projects and automated work](https://github.com/features/copilot)
+      * [![](https://github.githubassets.com/assets/copilot-e2b89335a66dba00.png)![](https://github.githubassets.com/assets/copilot-dark-2b28403b6080e898.png)CopilotAI coding agent for tasks, projects, and automated work](https://github.com/features/copilot)
     * Build & Ship
       * [ActionsCI/CD and automation](https://github.com/features/actions)
       * [Code QualityQuality analysis, fixes, and enforcement](https://github.com/features/code-quality)
@@ -101,7 +101,7 @@ Public
   * Sponsor
   * [Notifications](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to change notification settings
   * [Fork9.1k (9.1k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
-  * [Star86.9k (86.9k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
+  * [Star87k (87k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
 
 
 ## About
@@ -120,7 +120,7 @@ Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for A
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**86.9k** stars
+**87.0k** stars
 ### Watchers
 **421** watching
 ### Forks
@@ -689,7 +689,7 @@ Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for A
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**86.9k** stars
+**87.0k** stars
 ### Watchers
 **421** watching
 ### Forks
