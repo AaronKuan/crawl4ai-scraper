@@ -122,7 +122,7 @@ Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for A
 ### Stars
 **87.0k** stars
 ### Watchers
-**421** watching
+**422** watching
 ### Forks
 [**9.1k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
@@ -691,7 +691,7 @@ Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for A
 ### Stars
 **87.0k** stars
 ### Watchers
-**421** watching
+**422** watching
 ### Forks
 [**9.1k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
