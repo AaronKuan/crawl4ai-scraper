@@ -84,8 +84,8 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 
 ## Repository navigation
   * [Code](https://github.com/unclecode/crawl4ai)
-  * [Issues56 (56)](https://github.com/unclecode/crawl4ai/issues)
-  * [Pull requests255 (255)](https://github.com/unclecode/crawl4ai/pulls)
+  * [Issues57 (57)](https://github.com/unclecode/crawl4ai/issues)
+  * [Pull requests259 (259)](https://github.com/unclecode/crawl4ai/pulls)
   * [Discussions](https://github.com/unclecode/crawl4ai/discussions)
   * [Actions](https://github.com/unclecode/crawl4ai/actions)
   * [Projects](https://github.com/unclecode/crawl4ai/projects)
@@ -101,7 +101,7 @@ Public
   * Sponsor
   * [Notifications](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to change notification settings
   * [Fork9.1k (9.1k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
-  * [Star87k (87k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
+  * [Star87.1k (87.1k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
 
 
 ## About
@@ -120,9 +120,9 @@ Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for A
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**87.0k** stars
+**87.1k** stars
 ### Watchers
-**422** watching
+**423** watching
 ### Forks
 [**9.1k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
@@ -689,9 +689,9 @@ Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for A
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**87.0k** stars
+**87.1k** stars
 ### Watchers
-**422** watching
+**423** watching
 ### Forks
 [**9.1k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
