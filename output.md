@@ -84,8 +84,8 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 
 ## Repository navigation
   * [Code](https://github.com/unclecode/crawl4ai)
-  * [Issues57 (57)](https://github.com/unclecode/crawl4ai/issues)
-  * [Pull requests264 (264)](https://github.com/unclecode/crawl4ai/pulls)
+  * [Issues58 (58)](https://github.com/unclecode/crawl4ai/issues)
+  * [Pull requests268 (268)](https://github.com/unclecode/crawl4ai/pulls)
   * [Discussions](https://github.com/unclecode/crawl4ai/discussions)
   * [Actions](https://github.com/unclecode/crawl4ai/actions)
   * [Projects](https://github.com/unclecode/crawl4ai/projects)
@@ -101,7 +101,7 @@ Public
   * Sponsor
   * [Notifications](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to change notification settings
   * [Fork9.1k (9.1k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
-  * [Star87.1k (87.1k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
+  * [Star87.2k (87.2k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
 
 
 ## About
@@ -120,21 +120,26 @@ Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for A
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**87.1k** stars
+**87.2k** stars
 ### Watchers
 **423** watching
 ### Forks
 [**9.1k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
 main
-[Branches](https://github.com/unclecode/crawl4ai/branches)[Tags](https://github.com/unclecode/crawl4ai/tags)
+[**224** Branches](https://github.com/unclecode/crawl4ai/branches)[**65** Tags](https://github.com/unclecode/crawl4ai/tags)
 [](https://github.com/unclecode/crawl4ai/branches)[](https://github.com/unclecode/crawl4ai/tags)
 Go to file
 Code
 Open more actions menu
 ## Latest commit
+[![unclecode](https://avatars.githubusercontent.com/u/12494079?v=4&size=40)](https://github.com/unclecode)[unclecode](https://github.com/unclecode/crawl4ai/commits?author=unclecode)
+[Docker Hub call-to-action image: space above the box](https://github.com/unclecode/crawl4ai/commit/cae74b203a33994f7e13b9052c3b0d5c93daa0e6)
+Nov 4, 2026
+[cae74b2](https://github.com/unclecode/crawl4ai/commit/cae74b203a33994f7e13b9052c3b0d5c93daa0e6) · Nov 4, 2026
 ## History
 [1,792 Commits](https://github.com/unclecode/crawl4ai/commits/main/)
+Open commit details
 [](https://github.com/unclecode/crawl4ai/commits/main/)1,792 Commits
 ## Folders and files  
 | Name  | Name  | Last commit message  | Last commit date  |  
@@ -684,7 +689,7 @@ Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for A
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**87.1k** stars
+**87.2k** stars
 ### Watchers
 **423** watching
 ### Forks
