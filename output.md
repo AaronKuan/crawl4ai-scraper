@@ -84,8 +84,8 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 
 ## Repository navigation
   * [Code](https://github.com/unclecode/crawl4ai)
-  * [Issues65 (65)](https://github.com/unclecode/crawl4ai/issues)
-  * [Pull requests284 (284)](https://github.com/unclecode/crawl4ai/pulls)
+  * [Issues66 (66)](https://github.com/unclecode/crawl4ai/issues)
+  * [Pull requests290 (290)](https://github.com/unclecode/crawl4ai/pulls)
   * [Discussions](https://github.com/unclecode/crawl4ai/discussions)
   * [Actions](https://github.com/unclecode/crawl4ai/actions)
   * [Projects](https://github.com/unclecode/crawl4ai/projects)
@@ -133,13 +133,8 @@ Go to file
 Code
 Open more actions menu
 ## Latest commit
-[![unclecode](https://avatars.githubusercontent.com/u/12494079?v=4&size=40)](https://github.com/unclecode)[unclecode](https://github.com/unclecode/crawl4ai/commits?author=unclecode)
-[Docker Hub call-to-action image: space above the box](https://github.com/unclecode/crawl4ai/commit/cae74b203a33994f7e13b9052c3b0d5c93daa0e6)
-Nov 4, 2026
-[cae74b2](https://github.com/unclecode/crawl4ai/commit/cae74b203a33994f7e13b9052c3b0d5c93daa0e6) · Nov 4, 2026
 ## History
 [1,792 Commits](https://github.com/unclecode/crawl4ai/commits/main/)
-Open commit details
 [](https://github.com/unclecode/crawl4ai/commits/main/)1,792 Commits
 ## Folders and files  
 | Name  | Name  | Last commit message  | Last commit date  |  
