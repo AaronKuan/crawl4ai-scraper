@@ -85,7 +85,7 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 ## Repository navigation
   * [Code](https://github.com/unclecode/crawl4ai)
   * [Issues66 (66)](https://github.com/unclecode/crawl4ai/issues)
-  * [Pull requests281 (281)](https://github.com/unclecode/crawl4ai/pulls)
+  * [Pull requests283 (283)](https://github.com/unclecode/crawl4ai/pulls)
   * [Discussions](https://github.com/unclecode/crawl4ai/discussions)
   * [Actions](https://github.com/unclecode/crawl4ai/actions)
   * [Projects](https://github.com/unclecode/crawl4ai/projects)
@@ -122,25 +122,26 @@ Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for A
 ### Stars
 **87.5k** stars
 ### Watchers
-**423** watching
+**422** watching
 ### Forks
 [**9.1k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
 main
-[**228** Branches](https://github.com/unclecode/crawl4ai/branches)[**65** Tags](https://github.com/unclecode/crawl4ai/tags)
+[**229** Branches](https://github.com/unclecode/crawl4ai/branches)[**65** Tags](https://github.com/unclecode/crawl4ai/tags)
 [](https://github.com/unclecode/crawl4ai/branches)[](https://github.com/unclecode/crawl4ai/tags)
 Go to file
 Code
 Open more actions menu
 ## Latest commit
-[![unclecode](https://avatars.githubusercontent.com/u/12494079?v=4&size=40)](https://github.com/unclecode)[unclecode](https://github.com/unclecode/crawl4ai/commits?author=unclecode)
-[Docker Hub call-to-action image: space above the box](https://github.com/unclecode/crawl4ai/commit/cae74b203a33994f7e13b9052c3b0d5c93daa0e6)
-Nov 4, 2026
-[cae74b2](https://github.com/unclecode/crawl4ai/commit/cae74b203a33994f7e13b9052c3b0d5c93daa0e6) · Nov 4, 2026
-## History
-[1,792 Commits](https://github.com/unclecode/crawl4ai/commits/main/)
+[![ntohidi](https://avatars.githubusercontent.com/u/17140097?v=4&size=40)](https://github.com/ntohidi)[ntohidi](https://github.com/unclecode/crawl4ai/commits?author=ntohidi)
+[docs: remove retired aravind@crawl4ai.com from SECURITY.md contacts (](https://github.com/unclecode/crawl4ai/commit/bf0c7925e21992af972039672fecd8e85163b575)[#…](https://github.com/unclecode/crawl4ai/pull/2570)
 Open commit details
-[](https://github.com/unclecode/crawl4ai/commits/main/)1,792 Commits
+Nov 17, 2026
+[bf0c792](https://github.com/unclecode/crawl4ai/commit/bf0c7925e21992af972039672fecd8e85163b575) · Nov 17, 2026
+## History
+[1,793 Commits](https://github.com/unclecode/crawl4ai/commits/main/)
+Open commit details
+[](https://github.com/unclecode/crawl4ai/commits/main/)1,793 Commits
 ## Folders and files  
 | Name  | Name  | Last commit message  | Last commit date  |  
 | --- | --- | --- | --- |  
@@ -691,7 +692,7 @@ Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for A
 ### Stars
 **87.5k** stars
 ### Watchers
-**423** watching
+**422** watching
 ### Forks
 [**9.1k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
