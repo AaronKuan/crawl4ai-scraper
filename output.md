@@ -84,7 +84,7 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 
 ## Repository navigation
   * [Code](https://github.com/unclecode/crawl4ai)
-  * [Issues66 (66)](https://github.com/unclecode/crawl4ai/issues)
+  * [Issues68 (68)](https://github.com/unclecode/crawl4ai/issues)
   * [Pull requests283 (283)](https://github.com/unclecode/crawl4ai/pulls)
   * [Discussions](https://github.com/unclecode/crawl4ai/discussions)
   * [Actions](https://github.com/unclecode/crawl4ai/actions)
@@ -127,7 +127,7 @@ Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for A
 [**9.1k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
 main
-[**229** Branches](https://github.com/unclecode/crawl4ai/branches)[**65** Tags](https://github.com/unclecode/crawl4ai/tags)
+[**231** Branches](https://github.com/unclecode/crawl4ai/branches)[**65** Tags](https://github.com/unclecode/crawl4ai/tags)
 [](https://github.com/unclecode/crawl4ai/branches)[](https://github.com/unclecode/crawl4ai/tags)
 Go to file
 Code
