@@ -84,7 +84,7 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 
 ## Repository navigation
   * [Code](https://github.com/unclecode/crawl4ai)
-  * [Issues68 (68)](https://github.com/unclecode/crawl4ai/issues)
+  * [Issues70 (70)](https://github.com/unclecode/crawl4ai/issues)
   * [Pull requests283 (283)](https://github.com/unclecode/crawl4ai/pulls)
   * [Discussions](https://github.com/unclecode/crawl4ai/discussions)
   * [Actions](https://github.com/unclecode/crawl4ai/actions)
@@ -101,7 +101,7 @@ Public
   * Sponsor
   * [Notifications](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to change notification settings
   * [Fork9.1k (9.1k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
-  * [Star87.5k (87.5k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
+  * [Star87.6k (87.6k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
 
 
 ## About
@@ -120,14 +120,14 @@ Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for A
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**87.5k** stars
+**87.6k** stars
 ### Watchers
-**422** watching
+**423** watching
 ### Forks
 [**9.1k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
 main
-[**231** Branches](https://github.com/unclecode/crawl4ai/branches)[**65** Tags](https://github.com/unclecode/crawl4ai/tags)
+[**232** Branches](https://github.com/unclecode/crawl4ai/branches)[**65** Tags](https://github.com/unclecode/crawl4ai/tags)
 [](https://github.com/unclecode/crawl4ai/branches)[](https://github.com/unclecode/crawl4ai/tags)
 Go to file
 Code
@@ -690,9 +690,9 @@ Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for A
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**87.5k** stars
+**87.6k** stars
 ### Watchers
-**422** watching
+**423** watching
 ### Forks
 [**9.1k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
