@@ -84,8 +84,8 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 
 ## Repository navigation
   * [Code](https://github.com/unclecode/crawl4ai)
-  * [Issues50 (50)](https://github.com/unclecode/crawl4ai/issues)
-  * [Pull requests293 (293)](https://github.com/unclecode/crawl4ai/pulls)
+  * [Issues51 (51)](https://github.com/unclecode/crawl4ai/issues)
+  * [Pull requests296 (296)](https://github.com/unclecode/crawl4ai/pulls)
   * [Discussions](https://github.com/unclecode/crawl4ai/discussions)
   * [Actions](https://github.com/unclecode/crawl4ai/actions)
   * [Projects](https://github.com/unclecode/crawl4ai/projects)
@@ -101,12 +101,12 @@ Public
   * Sponsor
   * [Notifications](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to change notification settings
   * [Fork9.1k (9.1k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)
-  * [Star87.6k (87.6k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
+  * [Star87.7k (87.7k)](https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai)You must be signed in to star a repository
 
 
 ## About
 Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.
-[crawl4ai.com/?ref=github-about](https://crawl4ai.com/?ref=github-about)
+[crawl4ai.com/signin/?ref=github-about](https://crawl4ai.com/signin/?ref=github-about)
 ### Topics
 [ai](https://github.com/topics/ai)[ai-agents](https://github.com/topics/ai-agents)[crawl4ai-cloud](https://github.com/topics/crawl4ai-cloud)[crawler](https://github.com/topics/crawler)[data-extraction](https://github.com/topics/data-extraction)[llm](https://github.com/topics/llm)[markdown](https://github.com/topics/markdown)[mcp](https://github.com/topics/mcp)[open-source](https://github.com/topics/open-source)[playwright](https://github.com/topics/playwright)[python](https://github.com/topics/python)[rag](https://github.com/topics/rag)[scraper](https://github.com/topics/scraper)[web-crawler](https://github.com/topics/web-crawler)[web-crawling](https://github.com/topics/web-crawling)[web-scraping](https://github.com/topics/web-scraping)
 ### Resources
@@ -120,28 +120,28 @@ Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for A
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**87.6k** stars
+**87.7k** stars
 ### Watchers
-**422** watching
+**423** watching
 ### Forks
 [**9.1k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
 main
-[**233** Branches](https://github.com/unclecode/crawl4ai/branches)[**67** Tags](https://github.com/unclecode/crawl4ai/tags)
+[**236** Branches](https://github.com/unclecode/crawl4ai/branches)[**67** Tags](https://github.com/unclecode/crawl4ai/tags)
 [](https://github.com/unclecode/crawl4ai/branches)[](https://github.com/unclecode/crawl4ai/tags)
 Go to file
 Code
 Open more actions menu
 ## Latest commit
 [![unclecode](https://avatars.githubusercontent.com/u/12494079?v=4&size=40)](https://github.com/unclecode)[unclecode](https://github.com/unclecode/crawl4ai/commits?author=unclecode)
-[Merge pull request](https://github.com/unclecode/crawl4ai/commit/67a717723f6413eeb5a5b14569aef8308f888adc) [#2592](https://github.com/unclecode/crawl4ai/pull/2592) [from unclecode/release/v0.9.6](https://github.com/unclecode/crawl4ai/commit/67a717723f6413eeb5a5b14569aef8308f888adc)
-Open commit detailssuccess
-Nov 20, 2026
-[67a7177](https://github.com/unclecode/crawl4ai/commit/67a717723f6413eeb5a5b14569aef8308f888adc) · Nov 20, 2026
-## History
-[1,903 Commits](https://github.com/unclecode/crawl4ai/commits/main/)
+[Merge pull request](https://github.com/unclecode/crawl4ai/commit/4e4bab5d44a7557eb403f137ec589833368a3e38) [#2614](https://github.com/unclecode/crawl4ai/pull/2614) [from unclecode/feat/docs-s2-8](https://github.com/unclecode/crawl4ai/commit/4e4bab5d44a7557eb403f137ec589833368a3e38)
 Open commit details
-[](https://github.com/unclecode/crawl4ai/commits/main/)1,903 Commits
+Nov 23, 2026
+[4e4bab5](https://github.com/unclecode/crawl4ai/commit/4e4bab5d44a7557eb403f137ec589833368a3e38) · Nov 23, 2026
+## History
+[1,922 Commits](https://github.com/unclecode/crawl4ai/commits/main/)
+Open commit details
+[](https://github.com/unclecode/crawl4ai/commits/main/)1,922 Commits
 ## Folders and files  
 | Name  | Name  | Last commit message  | Last commit date  |  
 | --- | --- | --- | --- |  
@@ -193,10 +193,10 @@ More items
 #  [![unclecode%2Fcrawl4ai | Trendshift](https://camo.githubusercontent.com/69c208d5cb39cc371ae4ead2b29ecd2af63d294080de361a33853f9cfd03af5f/68747470733a2f2f7472656e6473686966742e696f2f6170692f62616467652f7265706f7369746f726965732f3131373136)](https://trendshift.io/repositories/11716)Crawl4AI
 [](https://github.com/unclecode/crawl4ai#crawl4ai)
 **Crawl4AI Cloud is a hosted web scraping, extraction, and search API for AI agents and data pipelines.** Turn pages into clean Markdown for RAG, extract structured JSON, or search the live web with one API key. Crawl4AI runs the browsers and manages the proxies.
-**[Get a free API key](https://crawl4ai.com/?ref=readme)** · 1,000 free credits every month. No credit card required.
+**[Get a free API key](https://crawl4ai.com/signin/?ref=readme)** · 1,000 free credits every month. No credit card required.
 [Try a URL in the playground](https://crawl4ai.com/?ref=readme-playground#playground) · [Set up Crawl4AI Cloud in Claude Code, Cursor, or Codex](https://crawl4ai.com/llms.txt?ref=readme-llms)
 This repository is home to the Apache-2.0 crawler that powers Crawl4AI Cloud. [Run it yourself](https://github.com/unclecode/crawl4ai#run-crawl4ai-yourself) with Python or Docker.
-[ ![Crawl4AI Cloud is live. 1,000 free credits every month, no card. Get your key.](https://raw.githubusercontent.com/unclecode/crawl4ai/main/docs/assets/cloud-launch-banner-light.svg) ](https://crawl4ai.com/?ref=readme-banner)
+[ ![Crawl4AI Cloud is live. 1,000 free credits every month, no card. Get your key.](https://raw.githubusercontent.com/unclecode/crawl4ai/main/docs/assets/cloud-launch-banner-light.svg) ](https://crawl4ai.com/signin/?ref=readme-banner)
 [![GitHub Stars](https://camo.githubusercontent.com/3fb771830de309521b4d8ba031a650a06e4446e9e154aeb17a975c2a1804b01c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f756e636c65636f64652f637261776c3461693f7374796c653d736f6369616c)](https://github.com/unclecode/crawl4ai/stargazers) [![PyPI version](https://camo.githubusercontent.com/4fb86d74ec29a75972b7f469d560ba73d6c97a8020adddf1fe048f6c3abb9523/68747470733a2f2f62616467652e667572792e696f2f70792f637261776c3461692e737667)](https://badge.fury.io/py/crawl4ai) [![Downloads](https://camo.githubusercontent.com/34fe027ef1dbffa6cb554ba6261f3e8c969ffa11fbc8e5ecc5466202a240fbde/68747470733a2f2f7374617469632e706570792e746563682f62616467652f637261776c3461692f6d6f6e7468)](https://pepy.tech/project/crawl4ai) [![Discord](https://camo.githubusercontent.com/055fab65cd373acee8a538b2afbc58e963e7835d58de2de92bcfee2ac36f9245/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d6a6f696e25323075732d3538363546323f6c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.gg/jP8KfhDhyN)
 ## Cloud quickstart
 [](https://github.com/unclecode/crawl4ai#cloud-quickstart)
@@ -313,7 +313,7 @@ Docker server, CLI and every option: [Installation](https://github.com/unclecode
 I grew up on an Amstrad, thanks to my dad, and never stopped building. In grad school I specialized in NLP and built crawlers for research. That’s where I learned how much extraction matters.
 In 2023, I needed web-to-Markdown. The “open source” option wanted an account, API token, and $16, and still under-delivered. I went turbo anger mode, built Crawl4AI in days, and it went viral.
 I made it open source for **availability** , anyone can use it without a gate. Now I’m building the platform for **affordability** , anyone can run serious crawls without breaking the bank. If that resonates, join in, send feedback, or just crawl something amazing.
-That platform is live now: [Crawl4AI Cloud](https://crawl4ai.com/?ref=readme).
+That platform is live now: [Crawl4AI Cloud](https://crawl4ai.com/).
 Why developers pick Crawl4AI
   * **LLM-ready output** : smart Markdown with headings, tables, code and citation hints
   * **Fast in practice** : async browser pool, caching, minimal hops
@@ -372,7 +372,7 @@ Why developers pick Crawl4AI
   * 🏗️ **AMD64 and ARM64** images.
 
 
-☁️ Rather not run a server? The cloud is the same idea, hosted. [Get a key →](https://crawl4ai.com/?ref=readme)
+☁️ Rather not run a server? The cloud is the same idea, hosted. [Get a key →](https://crawl4ai.com/signin/?ref=readme)
 ☁️ **What the cloud adds**
   * 🔍 **Web search API** : `GET /search`, browser-free, ranked and cleaned. [Docs →](https://crawl4ai.com/docs?ref=readme#search)
   * 📊 **SERP API** : `GET /serp`, Google's results page as data: true ranks, every block, localised to a place. Beta. [Docs →](https://crawl4ai.com/docs?ref=readme#serp)
@@ -630,7 +630,7 @@ Our mission is to unlock the value of personal and enterprise data by turning di
 ## 💖 Support Crawl4AI
 [](https://github.com/unclecode/crawl4ai#-support-crawl4ai)
   1. ⭐ **Star the repo** : it helps more people find it.
-  2. ☁️ **Use the cloud** : [crawl4ai.com](https://crawl4ai.com/?ref=readme). It funds the library.
+  2. ☁️ **Use the cloud** : [crawl4ai.com](https://crawl4ai.com/). It funds the library.
   3. 💝 **Sponsor on GitHub** : [github.com/sponsors/unclecode](https://github.com/sponsors/unclecode)
   4. 🏢 **Companies** : the sponsor tiers and benefits are in [SPONSORS.md](https://github.com/unclecode/crawl4ai/blob/main/SPONSORS.md).
 
@@ -676,7 +676,7 @@ Happy crawling! 🕸️🚀
 [ ![Star History Chart](https://camo.githubusercontent.com/fa4032d2587b63345e60ae70178f5533ccc5d5e0539f79220a17cd839f61ad60/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f63686172743f7265706f733d756e636c65636f64652f637261776c34616926747970653d64617465266c6567656e643d746f702d6c656674267365616c65645f746f6b656e3d4b75616a724137536348385654344b616743376e6d317862617a5456614e733672646f6b3441743264563674446c393159525f64786d48686d7366666a68466957644c596c7a644143785a2d63574c777038745a4843597853444d6a49546633566e75346d506e733759644c657479514250484d5132665f4b616b5864627662565036506f66493832474e71474356455874506e5a57484338574d36437a5a65367336634a62365f67615f6b6e2d6a682d4265486479755252645652) ](https://www.star-history.com/?type=date&repos=unclecode%2Fcrawl4ai)
 ## About
 Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.
-[crawl4ai.com/?ref=github-about](https://crawl4ai.com/?ref=github-about)
+[crawl4ai.com/signin/?ref=github-about](https://crawl4ai.com/signin/?ref=github-about)
 ### Topics
 [ai](https://github.com/topics/ai)[ai-agents](https://github.com/topics/ai-agents)[crawl4ai-cloud](https://github.com/topics/crawl4ai-cloud)[crawler](https://github.com/topics/crawler)[data-extraction](https://github.com/topics/data-extraction)[llm](https://github.com/topics/llm)[markdown](https://github.com/topics/markdown)[mcp](https://github.com/topics/mcp)[open-source](https://github.com/topics/open-source)[playwright](https://github.com/topics/playwright)[python](https://github.com/topics/python)[rag](https://github.com/topics/rag)[scraper](https://github.com/topics/scraper)[web-crawler](https://github.com/topics/web-crawler)[web-crawling](https://github.com/topics/web-crawling)[web-scraping](https://github.com/topics/web-scraping)
 ### Resources
@@ -690,9 +690,9 @@ Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for A
 [Security policy](https://github.com/unclecode/crawl4ai#security-ov-file)
 [Activity](https://github.com/unclecode/crawl4ai/activity)
 ### Stars
-**87.6k** stars
+**87.7k** stars
 ### Watchers
-**422** watching
+**423** watching
 ### Forks
 [**9.1k** forks](https://github.com/unclecode/crawl4ai/forks)
 [Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai&report=unclecode+%28user%29)
