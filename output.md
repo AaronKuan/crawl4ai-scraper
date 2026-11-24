@@ -4,8 +4,8 @@
 [Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Funclecode%2Fcrawl4ai)
   * Products
     * Platform
-      * [![](https://github.githubassets.com/assets/platform-4ce65ae0bf273ce2.png)![](https://github.githubassets.com/assets/platform-dark-ac89fbf373737ed3.png)GitHubRepository hosting, code review, and collaboration](https://github.com/platform)
-      * [![](https://github.githubassets.com/assets/copilot-e2b89335a66dba00.png)![](https://github.githubassets.com/assets/copilot-dark-2b28403b6080e898.png)CopilotAI coding agent for tasks, projects, and automated work](https://github.com/features/copilot)
+      * [![](https://github.githubassets.com/assets/platform-025c223913033b6d.webp)![](https://github.githubassets.com/assets/platform-dark-5652b3fee35ced8b.webp)GitHubRepository hosting, code review, and collaboration](https://github.com/platform)
+      * [![](https://github.githubassets.com/assets/copilot-200a1ebea10c78ed.webp)![](https://github.githubassets.com/assets/copilot-dark-16171b0d3080e70f.webp)CopilotAI coding agent for tasks, projects, and automated work](https://github.com/features/copilot)
     * Build & Ship
       * [ActionsCI/CD and automation](https://github.com/features/actions)
       * [Code QualityQuality analysis, fixes, and enforcement](https://github.com/features/code-quality)
@@ -28,7 +28,7 @@
       * [GitHub Sponsors](https://github.com/open-source/sponsors)
       * [Developer articles](https://github.com/resources/articles)
     * Changelog
-      * [![](https://github.githubassets.com/assets/changelog-fd687bff072883b0.png)![](https://github.githubassets.com/assets/changelog-dark-b1c25ae971bd641b.png)ChangelogYour source for the latest features, improvements, and fixes across GitHub products, all in one place.](https://github.blog/changelog/)
+      * [![](https://github.githubassets.com/assets/changelog-f3cfe2d3a6b4818b.webp)![](https://github.githubassets.com/assets/changelog-dark-8aa733db00350e61.webp)ChangelogYour source for the latest features, improvements, and fixes across GitHub products, all in one place.](https://github.blog/changelog/)
   * Businesses
     * By Stage
       * [Enterprises](https://github.com/enterprise)
@@ -68,7 +68,7 @@
       * [Partners](https://github.com/partners)
       * [Changelog](https://github.blog/changelog/)
     * GitHub Universe
-      * [![](https://github.githubassets.com/assets/universe-a98cd54821b27569.png)![](https://github.githubassets.com/assets/universe-a98cd54821b27569.png)GitHub UniverseThe event for developers, by developers — talks, workshops, and what’s next for GitHub.](https://githubuniverse.com/)
+      * [![](https://github.githubassets.com/assets/universe-9af583553ea01049.webp)![](https://github.githubassets.com/assets/universe-9af583553ea01049.webp)GitHub UniverseThe event for developers, by developers — talks, workshops, and what’s next for GitHub.](https://githubuniverse.com/)
   * [Pricing](https://github.com/pricing)
 
 
@@ -85,7 +85,7 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 ## Repository navigation
   * [Code](https://github.com/unclecode/crawl4ai)
   * [Issues51 (51)](https://github.com/unclecode/crawl4ai/issues)
-  * [Pull requests296 (296)](https://github.com/unclecode/crawl4ai/pulls)
+  * [Pull requests289 (289)](https://github.com/unclecode/crawl4ai/pulls)
   * [Discussions](https://github.com/unclecode/crawl4ai/discussions)
   * [Actions](https://github.com/unclecode/crawl4ai/actions)
   * [Projects](https://github.com/unclecode/crawl4ai/projects)
