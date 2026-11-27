@@ -84,8 +84,8 @@ You signed in with another tab or window. [Reload](https://github.com/unclecode/
 
 ## Repository navigation
   * [Code](https://github.com/unclecode/crawl4ai)
-  * [Issues56 (56)](https://github.com/unclecode/crawl4ai/issues)
-  * [Pull requests297 (297)](https://github.com/unclecode/crawl4ai/pulls)
+  * [Issues57 (57)](https://github.com/unclecode/crawl4ai/issues)
+  * [Pull requests304 (304)](https://github.com/unclecode/crawl4ai/pulls)
   * [Discussions](https://github.com/unclecode/crawl4ai/discussions)
   * [Actions](https://github.com/unclecode/crawl4ai/actions)
   * [Projects](https://github.com/unclecode/crawl4ai/projects)
